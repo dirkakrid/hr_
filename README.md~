@@ -16,7 +16,7 @@ Most of time for me, writing the task while doing it, makes me more clear about 
 
 ## Setup
 
-    $ pip install git+git://github.com/sumit007/hr_python.git
+    $ pip install git+git://github.com/euangoddard/hr_python.git
 
 
 ## How to use it?
@@ -37,7 +37,7 @@ Most of time for me, writing the task while doing it, makes me more clear about 
     $ hr -n "Task name" 
     ========  Task name===============
     
-    $hr -n "OpenShift and python" -s "#"
+    $hr -n "OpenShift in python" -s "#"
     ###### OpenShift in python########  #Till the end of your terminal window    
 
 ## Requirements
