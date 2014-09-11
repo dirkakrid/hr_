@@ -71,7 +71,7 @@ def cli():
 
 def _error_state():
 	print 'Error: provide valid input !'
-        print 'Usage: hr -n "Horizontal row"'
+        print 'Usage: hr -n "Task Name"'
 	sys.exit(2)
 
 
