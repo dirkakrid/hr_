@@ -8,7 +8,7 @@ Horizontal rule for your terminal with TASK NAME to be performed- in python!
 Use the old `<hr />` tag, but in your terminal.
 
 ## Inspiration
-The original version can be found in  (https://github.com/LuRsT/hr).
+The original version can be found in  (https://github.com/LuRsT/hr).<br/>
 It's elder brother can be found in (https://github.com/euangoddard/hr.py).
 
 Added a feature: Add "TASK_NAME" in the horizontal rule, to keep you focussed on the task which you intended to perform.
