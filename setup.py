@@ -9,7 +9,7 @@ setup(
     version=version,
     description='Horizontal rule for your terminal, with WRITTEN TASK NAME, to not let you distracted',
     author='Sumit murari',
-    url='http://github.com/sumit007/hr',
+    url='http://github.com/sumit007/hr_',
     license='',
     py_modules=['hr'],
     entry_points="""
