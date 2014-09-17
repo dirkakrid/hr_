@@ -4,8 +4,10 @@ hr
 
 Horizontal rule for your terminal with TASK NAME to be performed- in python!
 
-
 Use the old `<hr />` tag, but in your terminal.
+
+Check how much time you took to perform the mentioned task .
+
 
 ## Inspiration
 
@@ -37,11 +39,17 @@ Added a feature: Add "TASK_NAME" in the horizontal rule, to keep you focussed on
 
 ### Mention the "task in written" which you want to intend to perform
     
-    $ hr -n "Task name" 
+    $hr -n "Task name" 
     ========  Task name =============== 
     
     $hr -n "OpenShift and python" -s "#"
     ###### OpenShift in python########  #Till the end of your terminal window    
+    
+    
+### Check how much time you took to finish the task.
+
+    $hr -n "well stated problem. Start time: xx:xx"
+    =======  well stated problem. Start time: xx:xx  =========
 
 ## Requirements
 
