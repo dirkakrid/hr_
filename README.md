@@ -54,3 +54,5 @@ Added a feature: Add "TASK_NAME" in the horizontal rule, to keep you focussed on
 ## Requirements
 
 The only requirement is python (tested in python 2.7)
+
+##I know it's a small project, but still provide your feedback. They're are really valuable for me to improve
