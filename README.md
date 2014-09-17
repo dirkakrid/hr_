@@ -1,4 +1,4 @@
-hr
+hr 
 ====
 
 
@@ -8,6 +8,8 @@ Horizontal rule for your terminal with TASK NAME to be performed- in python!
 Use the old `<hr />` tag, but in your terminal.
 
 ## Inspiration
+
+             ##     "A problem well put is half solved". <hr/>
 The original version can be found in  (https://github.com/LuRsT/hr).<br/>
 It's elder brother can be found in (https://github.com/euangoddard/hr.py).
 
@@ -16,7 +18,7 @@ Added a feature: Add "TASK_NAME" in the horizontal rule, to keep you focussed on
 
 ## Setup
 
-    $ pip install git+git://github.com/sumit007/hr_.git
+    $ sudo pip install git+git://github.com/sumit007/hr_.git
 
 ## How to use it?
 
@@ -25,6 +27,8 @@ Added a feature: Add "TASK_NAME" in the horizontal rule, to keep you focussed on
     $ hr
     ================================== Till the end of your terminal window
     $
+
+    #Change the default symbol
 
     $ hr -s '*'
     ********************************** # Till the end of your terminal window
