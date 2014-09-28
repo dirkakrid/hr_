@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # All thanks to .../hr_python 
-from distutils.core import setup
+from setuptools import setup
 
 version = '0.1'
 
@@ -15,6 +15,6 @@ setup(
     entry_points="""
     # -*- Entry points: -*-
     [console_scripts]
-    hr = hr:cli
+    hr = hr_:cli
     """,
     )
