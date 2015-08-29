@@ -11,7 +11,7 @@ Check how much time you took to perform the mentioned task .
 
 ## Inspiration
 
-             ##     "A problem well put, is half solved" -- John Dewey<hr/>
+                  "A problem well put, is half solved" -- John Dewey<hr/>
 The original version can be found in  (https://github.com/LuRsT/hr).<br/>
 It's elder brother can be found in (https://github.com/euangoddard/hr.py).
 
