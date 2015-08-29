@@ -15,7 +15,7 @@ Check how much time you took to perform the mentioned task .
 The original version can be found in  (https://github.com/LuRsT/hr).<br/>
 It's elder brother can be found in (https://github.com/euangoddard/hr.py).
 
-Added a feature: Add "TASK_NAME" in the horizontal rule, to keep you focussed on the task which you intended to perform.
+Add "TASK_NAME" in the horizontal rule, to keep you aware....
 
 
 ## Setup
