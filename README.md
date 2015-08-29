@@ -20,7 +20,7 @@ Add "TASK_NAME" in the horizontal rule, to keep you aware....
 
 ## Setup
 
-    $ sudo pip install git+git://github.com/sumit007/hr_.git
+    $ sudo pip install git+git://github.com/murarisumit/hr_.git
 
 ## How to use it?
 
